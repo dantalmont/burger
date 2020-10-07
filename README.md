@@ -1,8 +1,13 @@
 # Burger Logger
 This project is still under development.
 
+This Project is a Burger Logger that uses  MySQL, Node, Express, Handlebars and a homemade ORM.
+Users are able to add burgers to the a list and change the status of each to burger to "Devoured" when the burger is eaten. The Deployed site utilizes Heroku and is linked to a JawsDB database.
+
 
 <br>
+
+[Deployed Site](https://danny-burger-logger.herokuapp.com/)<br>
 
 <br>
 
